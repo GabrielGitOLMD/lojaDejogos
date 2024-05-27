@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "jogo de tiro",
+      "descricao": "atual",
+      "foto": "card.png",
+      "preco": 66
+    },
+    {
+      "id": 2,
+      "produto": "jogo de tiro",
+      "descricao": "atual",
+      "foto": "card1.png",
+      "preco": 0
+    },
+    {
+      "id": 3,
+      "produto": "jogo 3",
+      "descricao": "descriçao do jogo 3",
+      "foto": "card.png",
+      "preco": 1000
+    },
+    {
+      "id": 4,
+      "produto": "jogo10",
+      "descricao": "jogo novo",
+      "foto": "card1.png",
+      "preco": 963
+    }
+   
+    
+  ]
+}
